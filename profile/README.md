@@ -7,3 +7,7 @@
 # **Motivos do site ser um site Estático**
 O principal motivo do site ser puro **HTML, CSS e Javascript** e que ao começar a criação do site eu pensei que eu queria algo simples e sem precisar ficar usando **frameworks**. A unica parte que usamos o **Node,js** e para criação da **[API](https://github.com/Den-Den-Mushi-TV/api)**<br>
 **[API](https://github.com/Den-Den-Mushi-TV/api)** é usada somente para pegamos a **URL** do episódio para ser exibido no site.
+
+# **Contrição e Agradecimentos**
+Caso queira ajudar a melhorar o desenvolvimento do **[SITE](https://github.com/Den-Den-Mushi-TV/ddmtv)** ou da **[API](https://github.com/Den-Den-Mushi-TV/api)** fique à vontade para contribuir!<br>
+Agradecimento especial para o **[Alex Rintt(alexrintt)](https://github.com/alexrintt)** sem ele o **Den Den Mushi TV** não existiria.
